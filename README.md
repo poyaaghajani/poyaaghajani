@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm a junior Flutter developer. Welcome to my page</div>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poyaaghajani&label=Profile%20views&color=0e75b6&style=flat" alt="poyaaghajani" /> </p>
 
-- 🦖 I’m currently learning work with different state managements in flutter  
+- 🦖 I’m currently looking for job as a flutter developer
   
 
 - 🦉 Ask me about what ever you want to know about flutter  

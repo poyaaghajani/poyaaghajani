@@ -6,10 +6,10 @@
 ### <div align="center">Hi, I'm a Flutter developer. Welcome to my Github page</div>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poyaaghajani&label=Profile%20views&color=0e75b6&style=flat" alt="poyaaghajani" /> </p>
 
-- 🦖 I’m currently looking for job as a flutter developer
+- 🦖 Recently, I am working deeply on Flutter
   
 
-- 🦉 Ask me about what ever you want to know about flutter  
+- 🦉 Ask me about what ever you want to know about Flutter  
   
 
 - ⚡ And you can see my projects  
